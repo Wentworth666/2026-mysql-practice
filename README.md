@@ -1,3 +1,4 @@
+**Part of main portfolio:** [wentworth-ai-projects](https://github.com/Wentworth666/wentworth-ai-projects)
 # 2026 数据库应用技术 - 实践仓库
 
 课程：《MySQL数据库技术》（第三版，周德伟主编）
